@@ -1,0 +1,12 @@
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+
+  margin-top: 80px;
+
+  background: var(--background-color);
+}
